@@ -1,0 +1,6 @@
+#!/usr/bin/env hhvm
+<?hh // not strict because of top-level statements.
+
+require_once(__DIR__.'/../vendor/hh_autoload.php');
+
+TruncateOutputCLI::main();

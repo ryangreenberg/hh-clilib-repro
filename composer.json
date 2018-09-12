@@ -1,0 +1,6 @@
+{
+    "require": {
+        "hhvm/hsl": "^3.28",
+        "facebook/hh-clilib": "^1.2"
+    }
+}
